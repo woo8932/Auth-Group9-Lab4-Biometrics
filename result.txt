@@ -1,0 +1,27 @@
+Test Loss: 0.907023012638092
+Test Accuracy: 0.6217564940452576
+
+ROC AUC Score (Macro-Averaged): 0.8846415792683379
+ROC AUC Score: 0.8846415792683379
+Class 0: EER = 0.2551, Threshold = 0.3153
+Class 1: EER = 0.1336, Threshold = 0.2908
+Class 2: EER = 0.1827, Threshold = 0.1585
+Class 3: EER = 0.3038, Threshold = 0.2835
+Class 4: EER = 0.1113, Threshold = 0.0786
+
+False Reject Rates (FRR) for each class (min, max, avg):
+Class 0: Min = 0.0000, Max = 1.0000, Avg = 0.4301
+Class 1: Min = 0.0000, Max = 1.0000, Avg = 0.3270
+Class 2: Min = 0.0000, Max = 1.0000, Avg = 0.3793
+Class 3: Min = 0.0000, Max = 1.0000, Avg = 0.4643
+Class 4: Min = 0.0000, Max = 1.0000, Avg = 0.1589
+
+False Accept Rates (FAR) for each class (min, max, avg):
+Class 0: Min = 0.0000, Max = 1.0000, Avg = 0.2071
+Class 1: Min = 0.0000, Max = 1.0000, Avg = 0.1197
+Class 2: Min = 0.0000, Max = 1.0000, Avg = 0.1481
+Class 3: Min = 0.0000, Max = 1.0000, Avg = 0.2280
+Class 4: Min = 0.0000, Max = 1.0000, Avg = 0.1634
+
+Overall Average FRR: 0.3519
+Overall Average FAR: 0.1733
